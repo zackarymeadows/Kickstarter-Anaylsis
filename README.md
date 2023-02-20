@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Analyzing Kickstarter Data with the intention of detecting patterns in successful campaigns
+Analyzing Kickstarter Data with the intention of detecting patterns in successful campaigns
 
 ### The Purpose
 The Purpose of this Kickstarter analysis was to compare how different campaigns fare in relation to their launch dates and funding goals.  
