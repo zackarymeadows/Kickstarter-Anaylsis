@@ -20,12 +20,7 @@ Moving onto outcomes based on goals. Looking at general kickstarting campaigns, 
 One variable that might have shown a more thorough picture would be demographics. If the information for the target audience of the Kickstarter was available we could see what Age and Gender contribute the most to which category of each campaign. 
 
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 - Launch Dates in the Spring and Early Summer do well. Launch dates during the winter do not.
-- What can you conclude about the Outcomes based on Goals?
 - Goals below $5000 were more achievable. 
-- What are some limitations of this dataset?
 - One variable that might have shown a more thorough picture would be demographics. If the information for the target audience of the Kickstarter was available we could see what Age and Gender contribute the most to which category of each campaign. 
-- What are some other possible tables and/or graphs that we could create?
-- A graph showing the likelihood of large donations.
+
